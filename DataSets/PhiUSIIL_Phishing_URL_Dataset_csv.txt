@@ -1,0 +1,3 @@
+The dataset can be downloaded from : 
+https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset
+https://doi.org/10.1016/j.cose.2023.103545
